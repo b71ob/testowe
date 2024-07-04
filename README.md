@@ -6,3 +6,4 @@ Utworzyć plan testów dla MR Buggu7.
 2
 3
 4
+5 Pruba wysłania na GITHUBa
